@@ -1,1 +1,1 @@
-run using docker-compose
+Using docker-compose to run.
